@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://github.com/semanticgrid/semantic-grid",
+      "destination": "https://github.com/semantic-grid/semantic-grid",
       "permanent": false
     }
   ]
